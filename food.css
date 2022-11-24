@@ -1,0 +1,19 @@
+p{
+    font-family:  cursive;
+    font-size: 25px;
+  background-color:#A288E3;
+  color:#73EEDC;
+
+}
+
+h1{
+  text-align:center;
+  color:#6200DA;
+  background-image:linear-gradient(to right, #9B5DE5,#5EE6CF,white);
+  font-size:50px;
+}
+
+body{
+  background-color:#9B5DE5;
+}
+

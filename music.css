@@ -1,0 +1,19 @@
+h2{
+  text-align:center;
+  background-image:linear-gradient(to right, red,deepskyblue,navy);
+  color:white;
+  font-size:60px;
+
+}
+
+p{
+  background-color:deepskyblue;
+  color:white;
+  font-family:gabriola;
+  font-size:20px;
+}
+
+iframe{
+  text-align:center;
+  border: 5px solid red;
+}

@@ -1,0 +1,23 @@
+h1{
+  text-align:center;
+  background-color:red;
+  color:white;
+  font-family:gabriola;
+  font-size:50px;
+}
+
+p{
+  font-family:gabriola;
+
+  background-color:deepskyblue;
+  color:white;
+  font-size: 20px;
+}
+
+img{
+  border:5px solid red;
+}
+
+td{
+  text-align:center;
+}
